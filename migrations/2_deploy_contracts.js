@@ -1,5 +1,3 @@
-var ConvertLib = artifacts.require("./ConvertLib.sol");
-var MetaCoin = artifacts.require("./MetaCoin.sol");
 var Payroll = artifacts.require("./Payroll.sol");
 var USDToken = artifacts.require("./USDToken.sol");
 var DuplicateUSDToken = artifacts.require("./DuplicateUSDToken.sol");
