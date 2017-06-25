@@ -234,7 +234,7 @@ contract Payroll is PayrollInterface {
 
 
     function() payable {
-
+      throw;
     }
 }
 
